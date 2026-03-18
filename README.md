@@ -382,7 +382,7 @@ This project demonstrates:
 
 # 👩‍💻 Author
 
-**Komal Narawade**
+**Snehal Bhagwat**
 
 GitHub  
 https://github.com/Snehal7909)
